@@ -1,0 +1,23 @@
+h1{
+    color : red;
+    font-size: 200px;
+}
+/*     ...................................pseudo class .................*/
+img:hover{
+    background-color: gold;
+
+  }  
+  /*.......................................class ...................*/
+  .becon{
+    background-color: green;
+    cursor : pointer ;
+  }
+  .broccoli{
+    background-color:red;
+    cursor: pointer;
+  }
+.circular{
+    border-radius: 50%;
+    height: 160px;
+    width:160px;
+}
